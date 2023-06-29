@@ -27,7 +27,7 @@ const Home = () => {
           </div>
         </div>
         <div>
-            <img src={require('../assets/depositphotos_39258143-stock-illustration-businessman-avatar-profile-picture.jpg')} alt="my proflie"  className="rounded-2xl mx-auto w-2/3 md:w-full"/>
+            <img src={require('../assets/pp.jpg')} alt="my proflie"  className="rounded-2xl mx-auto w-2/3 md:w-full"/>
         </div>
       </div>
     </div>

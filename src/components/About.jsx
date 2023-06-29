@@ -13,19 +13,21 @@ const About = () => {
           </p>
         </div>
         <p className="text-xl mt-20">
-          i am young men who is fascinted by software engineering and like
-          solving problems with coding. i have created lot of programs and web
-          applications using morden technologies like react js and more.
+          I am a passionate software engineer who enjoys solving problems
+          through coding. With a focus on modern technologies like React.js, I
+          have developed numerous programs and web applications. My proficiency
+          in React.js allows me to create dynamic and interactive user
+          interfaces, constantly staying updated with industry standards.
         </p>
         <br />
-        <p className="text-xl mt-20">
-          Lorem ipsum deserunt deserunt consequat laborum ipsum amet sunt amet
-          exercitation. Excepteur enim proident incididunt quis enim fugiat
-          magna eiusmod ut. Qui officia non pariatur aute amet magna ut aute
-          occaecat velit adipisicing. Nisi Lorem enim laboris nisi anim occaecat
-          sit laborum est quis eiusmod. Dolor adipisicing exercitation labore
-          sit reprehenderit cillum minim.
-        </p>
+        I excel in breaking down complex problems, developing scalable
+        solutions, and optimizing performance. Collaborating effectively with
+        teams, meeting deadlines, and contributing to an innovative environment
+        are additional strengths. I am a continuous learner, eager to explore
+        emerging technologies, and my diverse portfolio demonstrates my
+        creativity, dedication, and problem-solving abilities. Let's connect and
+        collaborate to create exceptional software solutions.
+        <br />
       </div>
     </div>
   );
